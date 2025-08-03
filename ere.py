@@ -1,6 +1,3 @@
-discord.py
-flask
-
 import discord
 import re
 import os
